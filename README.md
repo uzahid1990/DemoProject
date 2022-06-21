@@ -38,6 +38,9 @@ pytest-html-reporter	0.2.9
 selenium	4.2.0	
 ```
 
+## Python Version
+Python 3.7.0
+
 ## Browser - Driver For
 - Chrome Browser: Version 102.0.5005.115 
 
